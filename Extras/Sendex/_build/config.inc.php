@@ -9,9 +9,9 @@ if (!defined('MODX_CORE_PATH')) {
 }
 
 return [
-    'name' => 'modExtra',
-    'name_lower' => 'modextra',
-    'version' => '2.0.0',
+    'name' => 'Sendex',
+    'name_lower' => 'Sendex',
+    'version' => '1.0.0',
     'release' => 'pl',
     // Install package to site right after build
     'install' => true,
